@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Passport Generation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_citizens">All citizens</string>
+    <string name="issuance_of_passport">Issuance of passport</string>
+    <string name="add_citizens_information">Add citizens\' information</string>
+    <string name="search">Search</string>
+</resources>
