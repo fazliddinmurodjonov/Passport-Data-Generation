@@ -1,6 +1,6 @@
 # Passport Data Generation
 
-<img src="images/video.gif" width = "280" > <img src="images/img_1.jpg" width = "260">  <img src="images/img_2.jpg" width = "260" > 
+<img src="images/video.gif" width = "260" > <img src="images/img_1.jpg" width = "260">  <img src="images/img_2.jpg" width = "260" > 
 <img src="images/img_3.jpg" width = "280">  <img src="images/img_8.jpg" width = "280">
 <img src="images/img_5.jpg" width = "280"> <img src="images/img_6.jpg" width = "280">
 
